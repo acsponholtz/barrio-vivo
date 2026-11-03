@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Cuenco de cerámica color azafrán">
+<rect width="400" height="400" fill="#20358F"/>
+<ellipse cx="200" cy="318" rx="130" ry="14" fill="#000" opacity=".25"/>
+<path d="M60 170h280c0 90-52 148-140 148S60 260 60 170z" fill="#E8B63A"/>
+<ellipse cx="200" cy="170" rx="140" ry="22" fill="#F4CF72"/>
+<ellipse cx="200" cy="172" rx="118" ry="15" fill="#B98616"/>
+<path d="M92 215c60 22 156 22 216 0" fill="none" stroke="#F7F7F4" stroke-width="5" stroke-linecap="round"/>
+</svg>

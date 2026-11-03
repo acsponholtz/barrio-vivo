@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Taza de cerámica blanca con asa">
+<rect width="400" height="400" fill="#E8B63A"/>
+<ellipse cx="190" cy="336" rx="110" ry="12" fill="#000" opacity=".2"/>
+<path d="M270 160h22c34 0 48 26 40 54-8 26-34 40-70 36v-24c20 2 36-4 40-18 3-12-6-20-32-20z" fill="#F7F7F4"/>
+<path d="M92 130h188l-14 160c-2 30-20 46-80 46s-78-16-80-46z" fill="#F7F7F4"/>
+<ellipse cx="186" cy="130" rx="94" ry="14" fill="#DADAD2"/>
+<ellipse cx="186" cy="132" rx="80" ry="9" fill="#8A6A2A"/>
+<path d="M112 230h148" stroke="#20358F" stroke-width="10" stroke-linecap="round"/>
+<path d="M118 256h136" stroke="#20358F" stroke-width="4" stroke-linecap="round"/>
+</svg>

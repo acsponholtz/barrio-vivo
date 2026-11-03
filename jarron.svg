@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Jarrón de cerámica azul cobalto">
+<rect width="400" height="400" fill="#BFD8CC"/>
+<ellipse cx="200" cy="352" rx="110" ry="14" fill="#1B1F2A" opacity=".18"/>
+<path d="M170 60h60l-4 40c52 22 82 74 82 130 0 58-30 110-108 110S92 288 92 230c0-56 30-108 82-130z" fill="#20358F"/>
+<path d="M170 60h60v14h-60z" fill="#162566"/>
+<path d="M118 215c40 18 124 18 164 0" fill="none" stroke="#F7F7F4" stroke-width="5" stroke-linecap="round"/>
+<path d="M112 250c44 20 132 20 176 0" fill="none" stroke="#E8B63A" stroke-width="5" stroke-linecap="round"/>
+<path d="M130 160c-10 30-12 60-4 90" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".25"/>
+</svg>
