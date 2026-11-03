@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contacto · Barro Vivo</title>
+<meta name="description" content="Reserva una plaza o pide presupuesto. Escríbenos o visita el taller.">
+<link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700;800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="cabecera">
+  <div class="wrap">
+    <a class="marca" href="index.html">Barro Vivo</a>
+    <nav aria-label="Principal">
+      <ul class="menu">
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="servicios.html">Servicios</a></li>
+        <li><a href="contacto.html" aria-current="page">Contacto</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main>
+  <section>
+    <div class="wrap contacto">
+      <div>
+        <h2>Contacto</h2>
+        <p>Escríbenos para reservar o pedir presupuesto. Respondemos en 24 horas laborables.</p>
+        <address class="datos">
+          <p><strong>Dirección</strong><br>Calle del Alfar, 12 (dirección ficticia)</p>
+          <p><strong>Horario</strong><br>Martes a sábado, de 10:00 a 20:00</p>
+          <p><strong>Correo</strong><br><a href="mailto:hola@barrovivo.example">hola@barrovivo.example</a></p>
+          <p><strong>Teléfono</strong><br>600 000 000</p>
+        </address>
+      </div>
+      <!-- Formulario estático: abre el cliente de correo. Para envío real, cambiar action por la URL de Formspree. -->
+      <form action="mailto:hola@barrovivo.example" method="post" enctype="text/plain">
+        <label>Nombre <input type="text" name="nombre" autocomplete="name" required></label>
+        <label>Correo electrónico <input type="email" name="correo" autocomplete="email" required></label>
+        <label>Me interesa
+          <select name="servicio">
+            <option>Taller de iniciación</option>
+            <option>Alquiler de torno</option>
+            <option>Encargo a medida</option>
+            <option>Cumpleaños y grupos</option>
+          </select>
+        </label>
+        <label>Mensaje <textarea name="mensaje" required></textarea></label>
+        <button class="boton" type="submit">Enviar mensaje</button>
+      </form>
+    </div>
+  </section>
+</main>
+<footer class="pie">
+  <div class="wrap">
+    <span>© 2026 Barro Vivo, taller de cerámica ficticio. Proyecto académico.</span>
+    <span><a href="contacto.html">Escríbenos</a></span>
+  </div>
+</footer>
+</body>
+</html>
